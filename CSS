@@ -1,0 +1,15 @@
+.chat .content .messages .message-group .message-text {
+    border-left: 5px solid #0c364c;
+    padding-left: 5pt;
+}
+.theme-dark .modal-3HOjGZ, .theme-dark .message-25xg43 {
+    Background: transparent!important;
+    box-shadow: 0 0 0 1px rgb(255, 0, 0), 2px 2px 2px 0 rgb(255, 0, 0);
+}
+
+div.footer-2J5zqP, .theme-dark .footer-1PYmcw {
+    background-color: transparent !important;
+}
+.emoji{
+    min-height: 35px !important;
+    min-width: 35px !important;
